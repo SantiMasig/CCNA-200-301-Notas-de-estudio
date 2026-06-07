@@ -18,9 +18,6 @@ ccna-200-301/
 ├── labs/                   # Archivos .pkt de Packet Tracer y topologías GNS3
 └── comandos-cheatsheet.md  # Referencia rápida de comandos Cisco IOS.
 
-Temario CCNA 200-301
-MóduloTemaEstado01Fundamentos de redes y modelo OSI⬜ Pendiente02Direccionamiento IPv4 y subnetting⬜ Pendiente03Direccionamiento IPv6⬜ Pendiente04Switching y VLANs⬜ Pendiente05Spanning Tree Protocol (STP)⬜ Pendiente06Routing estático y dinámico⬜ Pendiente07OSPF⬜ Pendiente08NAT y servicios de red⬜ Pendiente09Listas de control de acceso (ACLs)⬜ Pendiente10Seguridad básica⬜ Pendiente11Wireless⬜ Pendiente12Automatización y programabilidad⬜ Pendiente
-
 Actualizando el estado a medida que avanzo con el estudio.
 ✅ Completado · 🟡 En progreso · ⬜ Pendiente
 
